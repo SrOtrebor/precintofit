@@ -1,8 +1,8 @@
 @echo off
-title NutriFit - Recetario Saludable
+title PrecintoFit - Recetario Saludable
 cls
 echo ========================================================
-echo   NUTRIFIT - RECETARIO SALUDABLE INTELIGENTE (WEB APP)
+echo   PRECINTOFIT - RECETARIO SALUDABLE INTELIGENTE (WEB APP)
 echo ========================================================
 echo.
 echo Iniciando servidor local para acceder desde tu PC y Celular...
